@@ -41,8 +41,8 @@ This is the backend for the Task Manager app, built using Node.js, Express, and 
 3. Create a `.env` file in the backend folder and add the following environment variables:
    ```env
    PORT=5000
-   MONGO_URI=<your_mongodb_connection_string>
-   JWT_SECRET=<your_secret_key>
+   MONGO_URI=_mongodb_connection_string
+   JWT_SECRET=secret_key
    ```
 4. Start the backend server:
    ```bash
